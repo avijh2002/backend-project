@@ -1,0 +1,16 @@
+{
+  "name": "backenddd",
+  "version": "1.0.0",
+  "description": "learning production ready backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "mongoose"
+  ],
+  "author": "avinash jha",
+  "license": "ISC"
+}
