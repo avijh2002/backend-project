@@ -2,7 +2,7 @@
   "name": "backenddd",
   "version": "1.0.0",
   "description": "learning production ready backend",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
@@ -13,5 +13,9 @@
     "mongoose"
   ],
   "author": "avinash jha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5"
+  }
 }
